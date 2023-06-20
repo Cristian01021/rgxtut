@@ -19,11 +19,6 @@ In essence, regex serves as code segments acting as guardrails to ensure that us
 
 <br>
 
-### ***REGEX EMAIL EXAMPLE***
-```
- /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/
-```
-
 
 ## Table of Contents
 
